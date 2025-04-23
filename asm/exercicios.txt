@@ -1,0 +1,6 @@
+Desenvolva as soluções abaixo usando Assembly. As entradas de dados serão simuladas via
+inicialização de variáveis (compilado junto). Todas as operações numéricas serão efetuadas
+sobre inteiros.
+1. Dado um inteiro x, determine 𝑥!.
+2. Dado um inteiro positivo n, verificar se n é primo.
+3. Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares
