@@ -1,0 +1,18 @@
+Exercícios 1
+Desenvolva as soluções abaixo usando C. As entradas de dados devem ser solicitadas em tela.
+1. Dado um inteiro x, determine 𝑥!.
+2. Dado um inteiro positivo n, verificar se n é primo.
+3. Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
+4. Escreva um programa que converta temperaturas de Fahrenheit para Celsus, seguindo
+a equação C = ((F-32)*5)/9
+5. Dados dois strings (um contendo uma frase e outro contendo uma palavra), determine
+o número de vezes que a palavra ocorre na frase.
+Exemplo:
+Para a palavra ANA e a frase :
+ANA E MARIANA GOSTAM DE BANANA
+Resp: Temos que a palavra ANA ocorre 4 vezes na frase.
+OBS: strings em C são vetores (tamanho longo) de char. Para criar uma string crie um
+vetor “char st[10];”. Para ler uma string com espaços em C use a função gets(
+nome_do_vetor_char ); . Todo fim de string (dentro do vetor) precisa ser delimitado
+pelo caracter ‘\0’. Para inserir Ana em st precisamos fazer: st[0] = ‘A’; st[1] = ‘N’; st[2] =
+‘A’; st[3] = ‘\0’;
