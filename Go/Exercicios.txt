@@ -1,0 +1,13 @@
+Exercícios 1
+Desenvolva as soluções abaixo usando GO. As entradas de dados devem ser solicitadas em tela.
+1. Dados um inteiro x e um inteiro não-negativo n, calcular 𝑥𝑛.
+2. Dado um inteiro positivo n, verificar se n é primo.
+3. Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
+4. Escreva um programa que converta temperaturas de Fahrenheit para Celsius, seguindo
+a equação 𝐶 = ((𝐹−32)×5)/9 .
+5. Dados dois strings (um contendo uma frase e outro contendo uma palavra), determine
+o número de vezes que a palavra ocorre na frase.
+Exemplo:
+Para a palavra ANA e a frase :
+ANA E MARIANA GOSTAM DE BANANA
+Resp: Temos que a palavra ANA ocorre 4 vezes na frase.
