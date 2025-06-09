@@ -1,0 +1,7 @@
+Desenvolva as soluções abaixo usando Haskell. As entradas de dados devem ser solicitadas em
+tela.
+1. Dados um inteiro x e um inteiro não-negativo n, calcular 𝑥𝑛.
+2. Dado um inteiro positivo n, verificar se n é primo.
+3. Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
+4. Escreva um programa que converta temperaturas de Fahrenheit para Celsius, seguindo
+a equação 𝐶 = ((F-32)*5)/9.
